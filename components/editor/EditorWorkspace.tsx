@@ -704,7 +704,7 @@ export default function EditorWorkspace({ documentId }: EditorWorkspaceProps) {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/aryanmanik"
+                href="https://www.linkedin.com/in/aryanmanik013/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-zinc-600 dark:hover:text-zinc-300 underline"
